@@ -50,4 +50,6 @@ More about CSS Modules : https://github.com/css-modules/css-modules#composition
 
 See also : https://css-modules.github.io/webpack-demo/
 
+Theming with CSS Modules : https://github.com/css-modules/css-modules/blob/master/docs/theming.md
+
 Install ref : https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/
