@@ -47,3 +47,5 @@ CSS Modules have an extend functionality that can be used across files with the 
 ```
 
 More about CSS Modules : https://github.com/css-modules/css-modules#composition
+
+Install ref : https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/
